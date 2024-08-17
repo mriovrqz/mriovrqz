@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I am mriovrqz currently taking a Bachelors degree in Computer Engineering.
 
 <!--
 **mriovrqz/mriovrqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
